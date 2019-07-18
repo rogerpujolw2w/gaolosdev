@@ -13,7 +13,7 @@ Este proyecto, tal y como está diseñado en Core Net, es perfecto para aplicar 
 No hay versión funcional por falta de tiempo. La idea es usar este proyecto para el Mean Stack 3.
 
 
-Las API que gestionan toda la aplicación se encuentran en:
+Las APIs que gestionan toda la aplicación se encuentran en:
 
 -  https://xxx.gaolos.com/ (Publicado en servidores privados)
 
@@ -70,13 +70,13 @@ https://xxx.gaolos.com/
 
 ## RETO A SUPERAR
 
-Aplicar todas las funcionalidades que tenemos el Ajax y JQuery en Angular
-Mejorar la experiencia del usuario mediante Angular
+- Aplicar todas las funcionalidades que tenemos el Ajax y JQuery en Angular
+- Mejorar la experiencia del usuario mediante Angular
 
 
 ## FUTURIBLES
 
-Usar librerías reactivas o Sockets para poder actualizar la información que visualiza el usuario en tiempo real cuando es modificado por otro usuario.
+Usar librerías reactivas o Sockets para poder actualizar la información que visualiza el usuario en tiempo real, cuando es modificada por otro usuario.
 
 
 Otras mejoras a realizar son:
